@@ -36,3 +36,8 @@ A simple weather application built using JavaScript and the OpenWeatherMap API. 
 
    ```bash
    git clone https://github.com/yourusername/weather-app.git
+
+## Author
+
+Eshwar
+(https://github.com/eshwarvk)
