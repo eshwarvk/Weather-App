@@ -7,10 +7,6 @@ A simple weather application built using JavaScript and the OpenWeatherMap API. 
 - Weather description
 - A fun weather emoji
 
-## 🔗 Demo
-
-(You can host this on GitHub Pages or Netlify and place a link here.)
-
 ## 🚀 Features
 
 ✅ Search weather by city name  
@@ -35,7 +31,7 @@ A simple weather application built using JavaScript and the OpenWeatherMap API. 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/eshwarvk/Weather-App.git
 
 ## Author
 
