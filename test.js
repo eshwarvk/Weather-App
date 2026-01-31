@@ -1,1 +1,1 @@
-console.log("vanakam da mapla from cbe...!!!")
+console.log("vanakam da mapla from cbe")
